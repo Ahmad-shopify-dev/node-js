@@ -1,0 +1,28 @@
+[2026-09-25 19:50:25] [INFO]: GET /api/v1/users 200 43 - 14.523 ms
+[2026-09-28 21:05:54] [INFO]: POST /api/v1/users/login 500 52 - 5.032 ms
+[2026-09-28 21:06:30] [INFO]: POST /api/v1/users/login 500 52 - 1.198 ms
+[2026-09-28 21:46:44] [INFO]: POST /api/v1/users/login 500 52 - 6.823 ms
+[2026-09-28 21:47:45] [INFO]: POST /api/v1/users/login 500 52 - 7.748 ms
+[2026-09-28 21:49:17] [INFO]: POST /api/v1/users/login 500 52 - 6.231 ms
+[2026-09-28 21:50:02] [INFO]: POST /api/v1/users/login 500 52 - 1.245 ms
+[2026-09-28 22:11:54] [INFO]: POST /api/v1/users/login 500 52 - 4.677 ms
+[2026-09-29 00:51:00] [INFO]: POST /api/v1/users/login 500 52 - 4.917 ms
+[2026-09-29 00:51:23] [INFO]: POST /api/v1/users/login 500 52 - 6.754 ms
+[2026-09-29 00:51:53] [INFO]: POST /api/v1/users/login 500 52 - 5.632 ms
+[2026-09-29 00:54:10] [INFO]: POST /api/v1/users/login 500 52 - 6.062 ms
+[2026-09-29 00:54:47] [INFO]: POST /api/v1/users/login 200 215 - 19.028 ms
+[2026-09-29 00:55:29] [INFO]: POST /api/v1/users 404 69 - 0.999 ms
+[2026-09-29 00:55:39] [INFO]: GET /api/v1/users 200 43 - 0.379 ms
+[2026-09-29 00:56:57] [INFO]: GET /api/v1/users 200 43 - 13.731 ms
+[2026-09-29 00:57:09] [INFO]: GET /api/v1/users 401 85 - 0.869 ms
+[2026-09-29 01:33:01] [INFO]: GET /api/v1/users 500 52 - 2.317 ms
+[2026-09-29 01:40:06] [INFO]: GET /api/v1/users 500 42 - 9.589 ms
+[2026-09-29 01:40:31] [INFO]: POST /api/v1/users/login 200 215 - 2.949 ms
+[2026-09-29 01:40:48] [INFO]: GET /api/v1/users 200 43 - 0.924 ms
+[2026-09-29 02:26:53] [INFO]: GET /api/v1/users 500 42 - 1.582 ms
+[2026-09-29 23:09:06] [INFO]: Normal data fetched for: /api/v1/users
+[2026-09-29 23:09:06] [INFO]: GET /api/v1/users 500 83 - 9.497 ms
+[2026-09-29 23:10:30] [INFO]: Normal data fetched for: /api/v1/users
+[2026-09-29 23:10:30] [INFO]: GET /api/v1/users 200 1318 - 7.494 ms
+[2026-09-29 23:10:43] [INFO]: Cached data hitted for: /api/v1/users
+[2026-09-29 23:10:43] [INFO]: GET /api/v1/users 200 1336 - 0.922 ms
